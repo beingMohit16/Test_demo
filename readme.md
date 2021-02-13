@@ -1,1 +1,1 @@
-New Test
+Git tutorial 
