@@ -1,0 +1,38 @@
+    1  git status
+   13  git init
+   14  git status
+   19  git status
+   20  git add readme.md 
+   21  git status
+   22  git diff
+   23  git diff --cached
+   25  git status 
+   26  git diff
+   27  git add readme.md
+   28  git status 
+   29  git commit
+   30  git status 
+   31  git push origin master
+   32  git config
+   33  git config --global credential.helper store
+   34  git push origin master
+   35  git config ––global user.name “beingMohit16”
+   36  git config ––global user.name beingMohit16
+   37  git config ––global user.username beingMohit16
+   38  git config user.username beingMohit16
+   39  git remote add origin https://github.com/beingMohit16/Test_demo.git
+   40  git push origin master
+   46  git status
+   47  git clone https://github.com/beingMohit16/upgrad-eda.git
+   48  git status
+   52  git status
+   53  git status
+   54  git add .
+   55  git status
+   56  git commit -m 'Eda Data Source'
+   57  git status
+   58  git diff
+   59  git diff --cached
+   60  git push origin master
+   61  git push origin main
+   68  history | grep git >> gitcommand.txt
